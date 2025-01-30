@@ -5,10 +5,19 @@ My current journey involves mastering tools and frameworks essential for modern 
 
 ---
 
-## 🌱 Learning Path  
-- ✅ **HTML** & **CSS**: The foundation of web development.  
-- 🚀 **Tailwind CSS**: Creating efficient, utility-first designs.  
-- 🔜 **Future Focus**: Exploring frameworks and languages critical to front-end development, such as JavaScript, React, and more.  
+## 🌱 Current Journey  
+- 🚀 **Running**:  
+  - 🔄 HTML  
+  - 🔄 CSS  
+  - 🔄 Tailwind CSS
+
+- 🔜 **Next Steps**:  
+  - 📌 JavaScript  
+  - 📌 React  
+  - 📌 Firebase  
+  - 📌 Node.js  
+  - 📌 Express.js  
+  - 📌 MongoDB  
 
 ---
 
