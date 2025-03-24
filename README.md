@@ -10,10 +10,11 @@ My current journey involves mastering tools and frameworks essential for modern 
   - 🔄 HTML  
   - 🔄 CSS  
   - 🔄 Tailwind CSS
+  - 🔄 JavaScript
+  - 🔄 React
+    
 
-- 🔜 **Next Steps**:  
-  - 📌 JavaScript  
-  - 📌 React  
+- 🔜 **Next Steps**:    
   - 📌 Firebase  
   - 📌 Node.js  
   - 📌 Express.js  
