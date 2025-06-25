@@ -75,7 +75,9 @@ My goal is to become a confident full stack developer and work on real-world pro
 ## 📊 GitHub Stats:
 
 ![sajjadsajux's Stats](https://github-readme-stats.vercel.app/api?username=sajjadsajux&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+
 ![sajjadsajux's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjadsajux&theme=jolly&hide_border=true)
+
 ![sajjadsajux's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadsajux&theme=jolly&show_icons=true&hide_border=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=sajjadsajux&icon=0&color=0&cache=0)](https://github.com/sajjadsajux)
 
