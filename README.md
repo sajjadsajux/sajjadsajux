@@ -16,21 +16,16 @@ My goal is to become a confident full stack developer and work on real-world pro
 
 
 
-### My Current Activities:
+### ⚡ My Current Activities
 
-- 🌿 Recently worked on a Plant Care Tracker: planttick.web.app
-
-- 🌍 Built an International Tutor Finder platform for top languages: fluently-web.firebaseapp.com
-
+- 🌿 Recently worked on a [Plant Care Tracker](https://planttick.web.app)
+- 🌍 Built an [International Tutor Finder](https://fluently-web.firebaseapp.com) platform for top languages
 - 🏗️ Currently learning to work with bigger, industry-scale full stack project structures
-
 - 🚚 Currently developing a Parcel Delivery Web App featuring user, rider, and admin dashboards
-
 - 🧪 Practicing React components, routing, and state management
-
 - 🔐 Exploring authentication and role-based access control
-
 - 📚 Improving problem-solving and clean code practices
+
 
 
 ---
