@@ -72,12 +72,11 @@ My goal is to become a confident full stack developer and work on real-world pro
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sajjadsajux&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sajjadsajux&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadsajux&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
 
----
-[![](https://visitcount.itsvg.in/api?id=sajjadsajux&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=sajjadsajux&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com?user=sajjadsajux&theme=default_repocard&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadsajux&theme=default_repocard&hide_border=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=sajjadsajux&icon=0&color=0&cache=0)](https://github.com/sajjadsajux)
+
