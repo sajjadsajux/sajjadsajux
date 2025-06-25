@@ -11,9 +11,7 @@
 ### About Me
 
 Hi! I'm learning to build full-stack websites using the MERN stack. I’ve already worked with HTML, CSS, JavaScript, React, React Router, and MongoDB.<br />
-
 I enjoy turning ideas into real web applications. Right now, I’m focusing on improving my frontend and backend skills by building projects, practicing daily, and exploring new tools step by step.<br />
-
 My goal is to become a confident full stack developer and work on real-world projects that help people and solve everyday problems.
 
 
