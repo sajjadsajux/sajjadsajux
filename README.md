@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-![GitHub Banner](https://your-banner-image-url.com/banner.png)
+![Header](./github-header-image.png)
+
 
 <!-- Name and Designation -->
 # Hi, I'm MD Sajjad Hossain Saju  
