@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+# About Me
 
 I'm a passionate full stack web developer who enjoys learning and creating useful web applications. I love turning ideas into digital solutions and improving my skills by building real-world projects. My current focus is on modern JavaScript frameworks and backend development.
 
