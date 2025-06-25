@@ -1,3 +1,25 @@
+<!-- Banner Image -->
+![GitHub Banner](https://your-banner-image-url.com/banner.png)
+
+<!-- Name and Designation -->
+# 👋 Hi, I'm Sajjad Saju  
+### 💻 Full Stack Web Developer | MERN Stack Enthusiast  
+
+---
+
+## 🧑‍💼 About Me
+
+I'm a passionate full stack web developer who enjoys learning and creating useful web applications. I love turning ideas into digital solutions and improving my skills by building real-world projects. My current focus is on modern JavaScript frameworks and backend development.
+
+### 🔭 Currently Working On:
+- 🚀 A local event discovery platform using React and Firebase  
+- 🌐 Building a tutor booking website similar to Preply  
+- 🌱 Exploring Next.js and server-side rendering  
+- 🛠 Practicing full-stack CRUD operations using MERN stack  
+
+---
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjadsaju) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29590402) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sajjadsajux) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajjadhossainsajux@gmail.com) 
