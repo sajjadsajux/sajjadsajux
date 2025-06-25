@@ -10,7 +10,11 @@
 
 ### About Me
 
-I'm a passionate full stack web developer who enjoys learning and creating useful web applications. I love turning ideas into digital solutions and improving my skills by building real-world projects. My current focus is on modern JavaScript frameworks and backend development.
+Hi! I'm learning to build full-stack websites using the MERN stack. I’ve already worked with HTML, CSS, JavaScript, React, React Router, and MongoDB.
+I enjoy turning ideas into real web applications. Right now, I’m focusing on improving my frontend and backend skills by building projects, practicing daily, and exploring new tools step by step.
+My goal is to become a confident full stack developer and work on real-world projects that help people and solve everyday problems.
+
+
 
 ### 🔭 Currently Working On:
 - 🚀 A local event discovery platform using React and Firebase  
