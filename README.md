@@ -3,7 +3,7 @@
 
 <!-- Name and Designation -->
 # Hi, I'm MD Sajjad Hossain Saju  
-### 💻 Junior MERN Stack Developer  
+### Junior MERN Stack Developer  
 
 ---
 
