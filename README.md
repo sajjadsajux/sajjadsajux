@@ -16,11 +16,22 @@ My goal is to become a confident full stack developer and work on real-world pro
 
 
 
-### 🔭 Currently Working On:
-- 🚀 A local event discovery platform using React and Firebase  
-- 🌐 Building a tutor booking website similar to Preply  
-- 🌱 Exploring Next.js and server-side rendering  
-- 🛠 Practicing full-stack CRUD operations using MERN stack  
+### My Current Activities:
+
+- 🌿 Recently worked on a Plant Care Tracker: planttick.web.app
+
+- 🌍 Built an International Tutor Finder platform for top languages: fluently-web.firebaseapp.com
+
+- 🏗️ Currently learning to work with bigger, industry-scale full stack project structures
+
+- 🚚 Currently developing a Parcel Delivery Web App featuring user, rider, and admin dashboards
+
+- 🧪 Practicing React components, routing, and state management
+
+- 🔐 Exploring authentication and role-based access control
+
+- 📚 Improving problem-solving and clean code practices
+
 
 ---
 
