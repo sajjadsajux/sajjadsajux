@@ -2,8 +2,8 @@
 ![GitHub Banner](https://your-banner-image-url.com/banner.png)
 
 <!-- Name and Designation -->
-# 👋 Hi, I'm Sajjad Saju  
-### 💻 Full Stack Web Developer | MERN Stack Enthusiast  
+# Hi, I'm MD Sajjad Hossain Saju  
+### 💻 Junior MERN Stack Developer  
 
 ---
 
