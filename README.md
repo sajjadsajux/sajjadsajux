@@ -65,8 +65,17 @@ My goal is to become a confident full stack developer and work on real-world pro
 
 
 
-## 🌐 Socials
+---
 
+## 📬 Contact
+
+- 📧 Email: **sajjadsaju.dev@gmail.com**  
+- 📱 Phone: **+8801820646469**  
+- 📍 Location: Dhaka, Bangladesh  
+
+---
+
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjadsaju)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29590402)
 
