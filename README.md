@@ -70,7 +70,6 @@ My goal is to become a confident full stack developer and work on real-world pro
 ## 📬 Contact  
 
 📧 **Email:** sajjadhossainsajux@gmail.com  
-📱 **Phone:** +8801820646469  
 📍 **Location:** Dhaka, Bangladesh   
 
 ---
