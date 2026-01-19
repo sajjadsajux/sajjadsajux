@@ -14,18 +14,6 @@ Hi! I'm learning to build full-stack websites using the MERN stack. I’ve alrea
 I enjoy turning ideas into real web applications. Right now, I’m focusing on improving my frontend and backend skills by building projects, practicing daily, and exploring new tools step by step.<br />
 My goal is to become a confident full stack developer and work on real-world projects that help people and solve everyday problems.
 
-
-
-### ⚡ My Current Activities
-
-- 🌿 Recently worked on a [Plant Care Tracker](https://planttick.web.app) – a web app to manage plant care tasks
-- 🌍 Built an [International Tutor Finder](https://fluently-web.firebaseapp.com) platform for top languages, allowing users to find and book tutors globally
-- 🏗️ Currently learning to work with bigger, industry-scale full stack project structures
-- 🔐 Exploring advanced authentication and role-based access control 
-- 📚 Improving problem-solving and clean code practices
-- 🚚 Currently developing a Parcel Delivery Web App featuring user, rider, and admin dashboards
-
----
 ## 🚀 Skills
 
 ### 🌐 Frontend Development
