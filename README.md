@@ -66,7 +66,7 @@ My goal is to become a confident full stack developer and work on real-world pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjadsaju)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29590402)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sajjadsajux)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sajjadsajux&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
